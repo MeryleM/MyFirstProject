@@ -1,0 +1,99 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+	background: black;
+	color: white;
+}
+
+.headerLeft {
+	padding-left: 20px;
+	min-height: 80px;
+	display: inline-flex;
+	width: auto;
+	align-content: center;
+	font-size: 18px;
+	color: #fff;
+	margin-top: 10px;
+}
+
+.headerRight {
+	float: right;
+	padding-right: 20px;
+	min-height: 80px;
+	display: inline-flex;
+	width: auto;
+	align-content: center;
+	font-size: 18px;
+	color: #fff;
+	margin-top: 30px;
+}
+
+.logo {
+	width: 20%;
+	height: 20%;
+}
+
+.lienAccueil {
+	text-decoration: none;
+	color: white;
+	padding-left: 10px;
+	padding-top: 18px;
+}
+.lien {
+	text-decoration: none;
+	color: white;
+}
+
+.content {
+	background: grey;
+	/*  */
+	height: 700px;
+}
+
+.textSimplon {
+	background: white;
+	color: black;
+	margin-left: 10%;
+	width: 30%;
+	float: left;
+	border-color: black;;
+	border-style: solid;
+	border-radius: 10px;
+}
+
+.textFormation{
+	background: white;
+	color: black;
+	margin-right: 10%;
+	width: 30%;
+	float: right;
+	border-color: black;
+	border-style: solid;
+	border-radius: 10px;
+}
+.text{
+	background: white;
+	color: black;
+	margin-right: 30%;
+	margin-left : 30%;
+	width: 40%;
+	border-color: black;
+	border-style: solid;
+	border-radius: 10px;
+}
+.trophe{
+	height: 100px;
+	width: 100px;
+	padding-top: 20%;
+}
+.recompenses{
+	font-style: italic ;
+}
+.footer {
+	background: black;
+	height: 50px;
+}
